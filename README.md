@@ -1,4 +1,4 @@
-## Survive the horde
+# Survive the horde
 
 ## Description: 
 - Jeux de survie à la première personne. Éliminer les zombies pour gagner des points. Si votre barre de santé atteint zéro, vous mourrez !
@@ -14,4 +14,4 @@
 ## Installer/Jouer: 
 - Se rendre sur mon portfolio itch (https://abdou-24.itch.io/)
 - Cliquez sur le jeux et télécharger le dossier.zip
-- Exporter le dossier et cliquer sur la version Unreal Engine
+- Extraire le dossier et cliquer sur le fichier Survive the horde.exe
